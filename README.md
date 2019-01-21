@@ -15,9 +15,9 @@ I learning the Go Programming Language.
 - [How to confirm that $GOPATH and $GOROOT are properly set? - StackOverflow](https://bit.ly/2MhaTeo)
 
 ## Beguinner Tips
-[50 Shades of Go](https://bit.ly/2MkLqAY)
-[SOLID Go Design](https://bit.ly/2MjF1pN)
-[Building on the shoulders of giants ... - YouTube](https://bit.ly/2MjhO6U)
+- [50 Shades of Go](https://bit.ly/2MkLqAY)
+- [SOLID Go Design](https://bit.ly/2MjF1pN)
+- [Building on the shoulders of giants ... - YouTube](https://bit.ly/2MjhO6U)
 
 ## Go Packages - Code Organization Structure
 - [How to Write Go Code](https://bit.ly/2McEOEA)
@@ -31,7 +31,7 @@ I learning the Go Programming Language.
 - [What is the recommended Go Project folder structure? - Reddit](https://bit.ly/2McOr6t)
 - [Folder structure ... under clean architecture - Reddit](https://bit.ly/2MltCWB)
 
-## Learning Go Programmin - Books and Online Sources
+## Learning Go Programming - Books and Online Sources
 - [The Go programming tutorial](https://golangr.com)
 - [Go Bootcamp](https://bit.ly/2MkLYH2)
 - [Golang Basics Workshop and Testing](https://bit.ly/2MmsAt7)
