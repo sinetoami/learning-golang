@@ -7,6 +7,7 @@ Language.
 - [GOPATH, GOROOT, GOBIN](https://bit.ly/2MfYZBQ)
 - [Handling Go workspace with direnv](https://bit.ly/2stsB5v)
 - [dep: Coming to Unify Package Management in Go](https://bit.ly/2MBwLRZ)
+- [Migrating from Glide to dep](https://bit.ly/2MyL2Pz)
 - [Go Environment Setup, Minus the Insanity](https://bit.ly/2MdM1V6)
 - [Building a Development Environment for Golang with Docker](https://bit.ly/2Mhuz1K)
 
@@ -17,12 +18,24 @@ Language.
 - [Learning GO - miek](https://www.miek.nl/go/)
 - [Golangr - Learn Go Programming](https://bit.ly/2sTeoih)
 - [Golang Bot - Golang tutorial series](https://bit.ly/2MzvN8Q)
-- [Golang Basics Workshop and Testing](https://bit.ly/2MmsAt7)
 - [The Little Go Book](https://bit.ly/2MyyMyx)
-- [Learn Go with Tests](https://bit.ly/2sNh3tY)
+- [A Go Developer's Notebook](https://bit.ly/2MzESi4)
+- [The Go Programming Language Report](https://bit.ly/2sSIlis)
+- [Golang Bootcamp](https://bit.ly/2MkLYH2)
 - [Golang - TutorialEdge](https://bit.ly/2sNp961)
 - [Games with Go](https://gameswithgo.org)
 - [Go101](https://bit.ly/2Myc89g)
+
+### TDD
+- [Golang Basics Workshop and Testing](https://bit.ly/2MmsAt7)
+- [Test-driven development with Go](https://bit.ly/2MzUC4A)
+- [Learn Go with Tests](https://bit.ly/2sNh3tY)
+
+### Web Development
+- [Building Web Apps with Go](https://bit.ly/2MBCd7p)
+- [Build Web Application with Golang](https://bit.ly/2MAXeiH)
+- [Webapp With Golang Anti Textbook](https://bit.ly/2MFEtL6)
+- [Go database/sql tutorial](http://go-database-sql.org)
 
 ### Packages
 - [How to Write Go Code](https://bit.ly/2McEOEA)
@@ -49,6 +62,7 @@ Language.
 - [Five suggestions for setting up a Go project](https://bit.ly/2MBu03k)
 - [50 Shades of Go](https://bit.ly/2MkLqAY)
 - [SOLID Go Design](https://bit.ly/2MjF1pN)
+- [Idiomatic Go](https://bit.ly/2sRTG2x)
 - [Building on the shoulders of giants ... - YouTube](https://bit.ly/2MjhO6U)
 - [Go Fragments - hosts a collection of Go annotated examples](http://www.gofragments.net)
 
@@ -65,6 +79,7 @@ Language.
 
 ## Talks
 - [Go talks](https://talks.golang.org)
+- [Dmitri Shuralyov](https://dmitri.shuralyov.com/talks)
 
 ## Courses
 - [A$AP Learn Go (GoLang)](https://bit.ly/2MzuVkB)
