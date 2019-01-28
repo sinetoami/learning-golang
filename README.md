@@ -52,6 +52,17 @@ Language.
 - [Building on the shoulders of giants ... - YouTube](https://bit.ly/2MjhO6U)
 - [Go Fragments - hosts a collection of Go annotated examples](http://www.gofragments.net)
 
+## YouTube Channels and Playlists
+### Channels
+- [JustForFunc - Programming in Go](https://bit.ly/2MzHv3i)
+- [Learn To Code](https://bit.ly/2MzHBId)
+- [Gopher Academy](https://bit.ly/2MBJ14V)
+
+### Playlists
+- [Go Lang Practical Programming Tutorial](https://bit.ly/2MzGjgl)
+- [Web applications in Go without using a framework](https://bit.ly/2MFCXZq)
+- [Creating a Simple RESTful API in Go](https://bit.ly/2MyFPar)
+
 ## Talks
 - [Go talks](https://talks.golang.org)
 
