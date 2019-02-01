@@ -27,9 +27,14 @@ Language.
 - [Go101](https://bit.ly/2Myc89g)
 
 ### TDD
+- [Learn Go with Tests](https://bit.ly/2sNh3tY)
 - [Golang Basics Workshop and Testing](https://bit.ly/2MmsAt7)
 - [Test-driven development with Go](https://bit.ly/2MzUC4A)
-- [Learn Go with Tests](https://bit.ly/2sNh3tY)
+- [Package testing](https://bit.ly/2MGWngp)
+- [Testable Examples in Go](https://blog.golang.org/examples)
+- [The cover story](https://blog.golang.org/cover)
+- [Table Driven Tests](https://bit.ly/2MFPdsV)
+- [Don’t just check errors, handle them gracefully](https://bit.ly/2MGZzZh)
 
 ### Web Development
 - [Building Web Apps with Go](https://bit.ly/2MBCd7p)
@@ -48,13 +53,26 @@ Language.
 - [Standard Package Layout](https://bit.ly/2MdrgZt)
 - [Everything you need to know about Packages in Go](https://bit.ly/2Mj2Kqc)
 - [Testable Examples in Go](https://bit.ly/2MdoS5a)
+- [Five suggestions for setting up a Go project](https://bit.ly/2MBu03k)
 
-## Exercises
+## Practice
 - [Gophercises](https://gophercises.com)
 - [Exercism](https://exercism.io)
 - [Go Koans](https://bit.ly/2Msc3UR)
 - [Codewalks](https://golang.org/doc/codewalk/)
+
+### Web development
+- [GoDiscourse - forum written in Go](https://github.com/godiscourse/godiscourse)
+- [Hugo static site setup for errorsingo.com](https://github.com/joncalhoun/errorsingo.com)
+
+### Command line
+- [Go Offer File](https://github.com/tpaschalis/goof)
+
+### Algorithms
 - [Your basic algorithms](https://bit.ly/2MmiwjX)
+- [Understandable RayTracing](https://github.com/ssloy/tinyraytracer/wiki)
+- [KABOOM! - A software ray machine rendering](https://github.com/ssloy/tinykaboom/wiki)
+- [A path tracer written in Go](https://github.com/fogleman/pt)
 
 ## Tips
 - [Go Code Review Comments](https://bit.ly/2MCktss)
@@ -84,8 +102,13 @@ Language.
 ## Courses
 - [A$AP Learn Go (GoLang)](https://bit.ly/2MzuVkB)
 
+## Projects Ideas
+- [Advice for a beginner to grow. - Reddit](https://bit.ly/2sY1sI0)
+
 ## Other resources
 - [Go Wiki](https://bit.ly/2MFadA4)
+- [Go Proverbs](https://go-proverbs.github.io)
 - [Resources for new Go programmers](https://bit.ly/2MFxYIc)
 - [Go Language Tutorials](https://bit.ly/2MCtEZW)
 - [Golang Programs](http://www.golangprograms.com)
+- [Awesome Go Interview Questions and Answers](https://goquiz.github.io)
