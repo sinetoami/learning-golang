@@ -67,12 +67,14 @@ Language.
 
 ### Command line
 - [Go Offer File](https://github.com/tpaschalis/goof)
+- [Designing Command-Line Tools People Love](https://carolynvanslyck.com/talk/go/cli/#/)
 
 ### Algorithms
 - [Your basic algorithms](https://bit.ly/2MmiwjX)
 - [Understandable RayTracing](https://github.com/ssloy/tinyraytracer/wiki)
 - [KABOOM! - A software ray machine rendering](https://github.com/ssloy/tinykaboom/wiki)
 - [A path tracer written in Go](https://github.com/fogleman/pt)
+- [Ray Tracing in Golang](https://bit.ly/2DQRLkQ)
 
 ## Tips
 - [Go Code Review Comments](https://bit.ly/2MCktss)
@@ -83,6 +85,8 @@ Language.
 - [Idiomatic Go](https://bit.ly/2sRTG2x)
 - [Building on the shoulders of giants ... - YouTube](https://bit.ly/2MjhO6U)
 - [Go Fragments - hosts a collection of Go annotated examples](http://www.gofragments.net)
+- [Constant errors](https://bit.ly/2MLgdqL)
+- [Dependecy Injection (DI) in Golang](https://bit.ly/2DOxdtf)
 
 ## YouTube Channels and Playlists
 ### Channels
@@ -98,6 +102,8 @@ Language.
 ## Talks
 - [Go talks](https://talks.golang.org)
 - [Dmitri Shuralyov](https://dmitri.shuralyov.com/talks)
+- [Francesc Campoy Flores](https://speakerdeck.com/campoy)
+- [Carolyn Van Slyck](https://carolynvanslyck.com/talks/)
 
 ## Courses
 - [A$AP Learn Go (GoLang)](https://bit.ly/2MzuVkB)
@@ -112,3 +118,5 @@ Language.
 - [Go Language Tutorials](https://bit.ly/2MCtEZW)
 - [Golang Programs](http://www.golangprograms.com)
 - [Awesome Go Interview Questions and Answers](https://goquiz.github.io)
+- [Ace your first year as a junior developer with this advice](https://bit.ly/2MLT3Ax)
+- [Awesome Machine Learning On Source Code ](https://bit.ly/2DS9hFz)
