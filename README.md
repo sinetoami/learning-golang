@@ -5,6 +5,9 @@ Language.
 ## Setup
 - [Installing Go and $GOPATH](https://bit.ly/2Mh9NiM)
 - [GOPATH, GOROOT, GOBIN](https://bit.ly/2MfYZBQ)
+- [Migrating a standalone Go project from Dep to go mod](https://d53dev.net/2019/05/17/migrating-a-standalone-go-project-from-dep-to-go-mod/)
+
+### Another ways to package management
 - [Handling Go workspace with direnv](https://bit.ly/2stsB5v)
 - [dep: Coming to Unify Package Management in Go](https://bit.ly/2MBwLRZ)
 - [Migrating from Glide to dep](https://bit.ly/2MyL2Pz)
@@ -64,6 +67,9 @@ Language.
 ### Web development
 - [GoDiscourse - forum written in Go](https://github.com/godiscourse/godiscourse)
 - [Hugo static site setup for errorsingo.com](https://github.com/joncalhoun/errorsingo.com)
+- [Building APIs in Go - Naga Sowjanya](https://speakerdeck.com/sowjumn/building-apis-in-go)
+- [Build a Go Web App - Naga Sowjanya](https://speakerdeck.com/sowjumn/build-a-go-web-app)
+- [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
 
 ### Command line
 - [Go Offer File](https://github.com/tpaschalis/goof)
