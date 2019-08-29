@@ -40,3 +40,6 @@ break another project, simply do this:
 GO111MODULES=on go mod init
 ```
 That will be enough.
+
+## References
+[How do I configure golang to recognize 'mod' packages?](https://stackoverflow.com/questions/51910862/how-do-i-configure-goland-to-recognize-mod-packages)
