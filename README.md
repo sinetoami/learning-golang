@@ -1,20 +1,38 @@
 # Learning Golang
-This repository organize a list of links that I collect while I learning the Go Programming 
-Language.
+This repository organize a list of links that I collect while I learning the Go
+Programming Language.
 
 ## Setup
-- [Installing Go and $GOPATH](https://bit.ly/2Mh9NiM)
-- [GOPATH, GOROOT, GOBIN](https://bit.ly/2MfYZBQ)
-- [Migrating a standalone Go project from Dep to go mod](https://d53dev.net/2019/05/17/migrating-a-standalone-go-project-from-dep-to-go-mod/)
-
-### Another ways to package management
-- [Handling Go workspace with direnv](https://bit.ly/2stsB5v)
-- [dep: Coming to Unify Package Management in Go](https://bit.ly/2MBwLRZ)
-- [Migrating from Glide to dep](https://bit.ly/2MyL2Pz)
-- [Go Environment Setup, Minus the Insanity](https://bit.ly/2MdM1V6)
+- [Install Go with ASDF](setup-go.md)
 - [Building a Development Environment for Golang with Docker](https://bit.ly/2Mhuz1K)
 
+## Go Modules
+- [My notes about Go Modules](go-modules.md)
+- [Using Go Modules](https://blog.golang.org/using-go-modules)
+- [Go Modules Wiki](https://github.com/golang/go/wiki/Modules)
+
+## Dependency Management Tools
+- [Dep](https://golang.github.io/dep/docs/introduction.html)
+- [Glide](https://glide.sh/)
+- [Go Environment Setup, Minus the Insanity](https://bit.ly/2MdM1V6)
+- [Dependency Management Tools Explained](https://blog.spiralscout.com/golang-vgo-dependency-management-explained-419d143204e4)
+
 ## Getting Started
+- [How to Write Go Code](https://golang.org/doc/code.html)
+- [Go Code Review Comments](https://bit.ly/2MCktss)
+- [50 Shades of Go](https://bit.ly/2MkLqAY)
+- [Idiomatic Go](https://bit.ly/2sRTG2x)
+- [Everything you need to know about Packages in Go](https://bit.ly/2Mj2Kqc)
+- [Organizing Go Code](https://bit.ly/2sNs1zP)
+- [Style guideline for Go packages](https://bit.ly/2MdIWo2)
+- [Organize your code with Go packages — Master Tricks](https://bit.ly/2McGaiE)
+- [Standard Package Layout](https://bit.ly/2MdrgZt)
+- [Five suggestions for setting up a Go project](https://bit.ly/2MBu03k)
+- [Go Package, Go](https://bit.ly/2MzQdyA)
+- [An incomplete list of Go tools](https://bit.ly/2MBnjht)
+- [GoDoc - host documentation for Go packages](https://godoc.org)
+
+## Learning Sources
 - [The Go Tour](https://bit.ly/2MCCua6)
 - [Effective Go](https://bit.ly/2sPhjc7)
 - [Go by Examples](https://gobyexample.com)
@@ -45,19 +63,6 @@ Language.
 - [Webapp With Golang Anti Textbook](https://bit.ly/2MFEtL6)
 - [Go database/sql tutorial](http://go-database-sql.org)
 
-### Packages
-- [How to Write Go Code](https://bit.ly/2McEOEA)
-- [Organizing Go code](https://bit.ly/2sNs1zP)
-- [Go builtin packages](https://golang.org/pkg/)
-- [An incomplete list of Go tools](https://bit.ly/2MBnjht)
-- [GoDoc - hosts documentation for Go packages](https://godoc.org)
-- [Style guideline for Go packages](https://bit.ly/2MdIWo2)
-- [Organize your code with Go packages — Master Tricks](https://bit.ly/2McGaiE)
-- [Standard Package Layout](https://bit.ly/2MdrgZt)
-- [Everything you need to know about Packages in Go](https://bit.ly/2Mj2Kqc)
-- [Testable Examples in Go](https://bit.ly/2MdoS5a)
-- [Five suggestions for setting up a Go project](https://bit.ly/2MBu03k)
-
 ## Practice
 - [Gophercises](https://gophercises.com)
 - [Exercism](https://exercism.io)
@@ -82,17 +87,12 @@ Language.
 - [A path tracer written in Go](https://github.com/fogleman/pt)
 - [Ray Tracing in Golang](https://bit.ly/2DQRLkQ)
 
-## Tips
-- [Go Code Review Comments](https://bit.ly/2MCktss)
-- [Go Package, Go](https://bit.ly/2MzQdyA)
-- [Five suggestions for setting up a Go project](https://bit.ly/2MBu03k)
-- [50 Shades of Go](https://bit.ly/2MkLqAY)
+## Articles
 - [SOLID Go Design](https://bit.ly/2MjF1pN)
-- [Idiomatic Go](https://bit.ly/2sRTG2x)
-- [Building on the shoulders of giants ... - YouTube](https://bit.ly/2MjhO6U)
 - [Go Fragments - hosts a collection of Go annotated examples](http://www.gofragments.net)
 - [Constant errors](https://bit.ly/2MLgdqL)
 - [Dependecy Injection (DI) in Golang](https://bit.ly/2DOxdtf)
+- [Handling Go workspace with direnv](https://bit.ly/2stsB5v)
 
 ## YouTube Channels and Playlists
 ### Channels
@@ -106,6 +106,7 @@ Language.
 - [Creating a Simple RESTful API in Go](https://bit.ly/2MyFPar)
 
 ## Talks
+- [Building on the shoulders of giants ... - YouTube](https://bit.ly/2MjhO6U)
 - [Go talks](https://talks.golang.org)
 - [Dmitri Shuralyov](https://dmitri.shuralyov.com/talks)
 - [Francesc Campoy Flores](https://speakerdeck.com/campoy)
