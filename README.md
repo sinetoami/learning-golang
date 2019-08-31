@@ -10,6 +10,7 @@ Programming Language.
 - [My notes about Go Modules](go-modules.md)
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
 - [Go Modules Wiki](https://github.com/golang/go/wiki/Modules)
+- [Welcome, Go Modules](https://mfridman.com/golang/go-modules-part1/)
 
 ## Dependency Management Tools
 - [Dep](https://golang.github.io/dep/docs/introduction.html)
