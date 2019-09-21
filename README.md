@@ -11,6 +11,7 @@ Programming Language.
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
 - [Go Modules Wiki](https://github.com/golang/go/wiki/Modules)
 - [Welcome, Go Modules](https://mfridman.com/golang/go-modules-part1/)
+- [Go Modules In Real Life](https://medium.com/@ckeyes88/go-modules-in-real-life-87a21fb4d8aa)
 
 ## Dependency Management Tools
 - [Dep](https://golang.github.io/dep/docs/introduction.html)
@@ -30,6 +31,7 @@ Programming Language.
 - [Standard Package Layout](https://bit.ly/2MdrgZt)
 - [Five suggestions for setting up a Go project](https://bit.ly/2MBu03k)
 - [Go Package, Go](https://bit.ly/2MzQdyA)
+- [A beguinners guide to writing Go packages](https://morioh.com/p/9e1e28dbf158)
 - [An incomplete list of Go tools](https://bit.ly/2MBnjht)
 - [GoDoc - host documentation for Go packages](https://godoc.org)
 
@@ -57,6 +59,7 @@ Programming Language.
 - [The cover story](https://blog.golang.org/cover)
 - [Table Driven Tests](https://bit.ly/2MFPdsV)
 - [Don’t just check errors, handle them gracefully](https://bit.ly/2MGZzZh)
+- [Unit Testing in Go with Real-World Examples](https://levelup.gitconnected.com/unit-testing-in-go-205ada2b9d7c)
 
 ### Web Development
 - [Building Web Apps with Go](https://bit.ly/2MBCd7p)
